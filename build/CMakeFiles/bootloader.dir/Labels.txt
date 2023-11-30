@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/CMakeFiles/bootloader
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/CMakeFiles/bootloader.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/CMakeFiles/bootloader-complete.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/ESP32/esp-workspace/LVGL8_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
